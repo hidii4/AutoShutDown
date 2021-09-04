@@ -1,0 +1,16 @@
+E:\C#\AutoShutdown\AutoShutDown\bin\Release\netcoreapp3.1\AutoShutDown.exe
+E:\C#\AutoShutdown\AutoShutDown\bin\Release\netcoreapp3.1\AutoShutDown.deps.json
+E:\C#\AutoShutdown\AutoShutDown\bin\Release\netcoreapp3.1\AutoShutDown.runtimeconfig.json
+E:\C#\AutoShutdown\AutoShutDown\bin\Release\netcoreapp3.1\AutoShutDown.runtimeconfig.dev.json
+E:\C#\AutoShutdown\AutoShutDown\bin\Release\netcoreapp3.1\AutoShutDown.dll
+E:\C#\AutoShutdown\AutoShutDown\bin\Release\netcoreapp3.1\AutoShutDown.pdb
+E:\C#\AutoShutdown\AutoShutDown\obj\Release\netcoreapp3.1\AutoShutDown.Autoshutdown.resources
+E:\C#\AutoShutdown\AutoShutDown\obj\Release\netcoreapp3.1\AutoShutDown.csproj.GenerateResource.cache
+E:\C#\AutoShutdown\AutoShutDown\obj\Release\netcoreapp3.1\AutoShutDown.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\AutoShutdown\AutoShutDown\obj\Release\netcoreapp3.1\AutoShutDown.AssemblyInfoInputs.cache
+E:\C#\AutoShutdown\AutoShutDown\obj\Release\netcoreapp3.1\AutoShutDown.AssemblyInfo.cs
+E:\C#\AutoShutdown\AutoShutDown\obj\Release\netcoreapp3.1\AutoShutDown.csproj.CoreCompileInputs.cache
+E:\C#\AutoShutdown\AutoShutDown\obj\Release\netcoreapp3.1\AutoShutDown.dll
+E:\C#\AutoShutdown\AutoShutDown\obj\Release\netcoreapp3.1\AutoShutDown.pdb
+E:\C#\AutoShutdown\AutoShutDown\obj\Release\netcoreapp3.1\AutoShutDown.genruntimeconfig.cache
+E:\C#\AutoShutdown\AutoShutDown\obj\Release\netcoreapp3.1\AutoShutDown.csproj.AssemblyReference.cache
